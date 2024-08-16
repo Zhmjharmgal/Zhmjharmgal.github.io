@@ -5,9 +5,9 @@ permalink: /publications/LEGO-Figurines
 excerpt: 'Jiahao Ge, Mingjun Zhou, Wenrui Bao, Hao Xu, and Chi-Wing Fu'
 category: manuscripts
 date: 2024-05-01
-venue: 'ACM Transactions on Graphics (TOG) (SIGGRAPH Asia 2023)'
+venue: 'ACM Transactions on Graphics (TOG) (SIGGRAPH 2024)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3658167'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Jiahao Ge, Mingjun Zhou, Wenrui Bao, Hao Xu, and Chi-Wing Fu. 2024. Creating LEGO Figurines from Single Images. ACM Transactions on Graphics (TOG) 43, 4 (2024), 1-16'
 ---
 
 Jiahao Ge, **Mingjun Zhou**, Wenrui Bao, Hao Xu, and Chi-Wing Fu

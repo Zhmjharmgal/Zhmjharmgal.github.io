@@ -7,7 +7,7 @@ excerpt: 'Mingjun Zhou, Jiahao Ge, Hao Xu, and Chi-Wing Fu'
 date: 2023-12-01
 venue: 'ACM Transactions on Graphics (TOG) (SIGGRAPH Asia 2023)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3618306'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mingjun Zhou, Jiahao Ge, Hao Xu, and Chi-Wing Fu. 2023. Computational Design of LEGO Sketch Art. ACM Transactions on Graphics (TOG) 42, 6 (2023), 1-15'
 ---
 
 **Mingjun Zhou**, Jiahao Ge, Hao Xu, and Chi-Wing Fu
