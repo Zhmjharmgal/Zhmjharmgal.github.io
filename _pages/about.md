@@ -15,3 +15,7 @@ and Engineering (CSE) in The Chinese University of Hong Kong
 Chi-Wing FU, Philip](https://www.cse.cuhk.edu.hk/~cwfu/). I obtained my
 Bachelor's degree from the same university (CUHK). I currently work on computer
 graphics, especially on the generation of various LEGO assemblies.
+
+---
+
+## [CV](http://Zhmjharmgal.github.io/files/CV_mingjun.pdf)
