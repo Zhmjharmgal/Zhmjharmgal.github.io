@@ -1,7 +1,8 @@
 ---
 title: "Computational Design of LEGO Sketch Art"
 collection: publications
-permalink: /publication/2023-12-01-paper-title-number-1
+category: manuscripts
+permalink: /publications/2023-12-01-paper-title-number-1
 excerpt: 'Mingjun Zhou, Jiahao Ge, Hao Xu, and Chi-Wing Fu'
 date: 2023-12-01
 venue: 'Journal 1'

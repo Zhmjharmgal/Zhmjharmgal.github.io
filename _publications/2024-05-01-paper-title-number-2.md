@@ -1,7 +1,7 @@
 ---
 title: "Creating LEGO Figurines from Single Images"
 collection: publications
-permalink: /publication/2024-05-01-paper-title-number-2
+permalink: /publications/2024-05-01-paper-title-number-2
 excerpt: 'Jiahao Ge, Mingjun Zhou, Wenrui Bao, Hao Xu, and Chi-Wing Fu'
 date: 2024-05-01
 venue: 'Journal 1'
